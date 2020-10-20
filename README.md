@@ -1,2 +1,4 @@
-# Learning
-Main projects and tasks from courses e.g Udemy and Edx courses
+# 2020 Udemy Python Course
+## 2020 Complete Python Bootcamp: From Zero to Hero in Python
+
+Main projects and tasks from courses
